@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name"><SNACK></SNACK>SNACC.that</string>
+
+    <string name="title_content">SNACC</string>
+    <string name="title2_content">.that</string>
+
+    <string name="title_activity_2">Activity2</string>
+
+    <string name="title_activity_coords">ActivityCoords</string>
+
+    <string name="title_activity_test">test</string>
+
+    <string-array name="foodTypes">
+        <item>Food</item>
+        <item>Sushi</item>
+        <item>Burger</item>
+        <item>Fast food</item>
+        <item>Italian</item>
+        <item>Chinese</item>
+        <item>Beef</item>
+        <item>Panini</item>
+        <item>Chicken</item>
+    </string-array>
+    <string name="title_activity_results">Results</string>
+
+</resources>
